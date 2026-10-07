@@ -1,2 +1,2 @@
 # git-lab
-it was first git lab
+my  first git lab
